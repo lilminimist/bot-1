@@ -102,15 +102,6 @@ There are no moderation commands or moderation systems in this bot. No bans, kic
 
 This phase intentionally leaves symbolic algebra beyond quadratic equations and simultaneous equations for a future specialist math implementation. `/calculator` never uses `eval`, Java compilation, or arbitrary code execution.
 
-## Add `DISCORD_TOKEN` in Replit
-
-1. Open the **Secrets** tool in Replit.
-2. Add a new secret named `DISCORD_TOKEN`.
-3. Paste the token copied from the Discord Developer Portal into the secure value field.
-4. Do not put the token in this README, source code, `.env` files, or logs.
-
-The application intentionally stops with a clear error if `DISCORD_TOKEN` is missing.
-
 ## Run the bot
 
 From this directory:
