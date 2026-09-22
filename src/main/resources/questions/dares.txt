@@ -1,0 +1,44 @@
+random|Describe your day using three dramatic movie titles.
+random|Invent a new holiday and explain its main tradition.
+funny|Give an object near you a very serious name.
+funny|Narrate your next snack like a nature documentary.
+chaotic|Create a five-word conspiracy theory about an everyday object.
+chaotic|Make up a completely unnecessary rule for your room.
+awkward|Send a friend the most formal greeting you can write.
+awkward|Describe your favorite food as if you have never seen food before.
+exposing|Share a harmless unpopular opinion about a popular snack.
+exposing|Reveal the last song you searched for, if you are comfortable.
+school|Explain a school subject using only gaming vocabulary.
+school|Make a three-step study plan with unnecessarily dramatic names.
+gaming|Name your next game session like a championship event.
+gaming|Describe your favorite game badly and let people guess it.
+music|Hum the chorus of a song without saying which one.
+music|Make a one-song playlist for the current mood.
+creative|Write a six-word story in the chat.
+creative|Draw a tiny creature and give it a job title.
+friendship|Give someone a specific, kind compliment.
+friendship|Ask the group a question you genuinely want answered.
+couple|Invent a wholesome fictional date in an unusual location.
+couple|Give a fictional couple a better matching playlist title.
+deep|Write one sentence about a future you would like to meet.
+deep|Name one small change that would make tomorrow gentler.
+social|Start a conversation with a question from `/qotd`.
+social|Ask someone what they have been enjoying lately.
+text|Send a friend a message that says you hope their day is okay.
+text|Write a message using only five words.
+emoji|Describe your mood using three emojis and no text.
+emoji|Create a new emoji meaning and explain it.
+confidence|State one thing you are proud of without adding “but”.
+confidence|Give yourself a title that sounds confidently ridiculous.
+improv|Invent a mascot for this server in thirty seconds.
+improv|Make up a product slogan for the nearest object.
+soft|Drink some water and share one nice thing you noticed today.
+soft|Describe your ideal quiet afternoon.
+goth|Name a fictional midnight café and its signature drink.
+goth|Write a spooky but friendly warning for a houseplant.
+genz|Describe your current vibe as if it were a short video caption.
+genz|Give your week a three-word status update.
+sarcastic|Deliver a dramatic acceptance speech for finishing a small task.
+sarcastic|Write a review of gravity as if it were an app.
+extreme|Perform a completely harmless dramatic reading of a grocery list.
+extreme|Write a bold but wholesome one-line manifesto for your next creative project.

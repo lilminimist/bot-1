@@ -1,0 +1,10 @@
+cat|Cats use purring not only when content, but also sometimes when stressed or hurt.
+octopus|Octopuses have three hearts and blue blood.
+fox|Foxes use more than 40 different sounds to communicate.
+elephant|Elephants can recognize themselves in mirrors and remember individual voices.
+crow|Crows can recognize human faces and remember people who treated them well or badly.
+otter|Sea otters hold hands while sleeping so they do not drift apart.
+bee|Honeybees can communicate the direction of food through a movement called the waggle dance.
+penguin|Some penguins propose with pebbles as part of courtship behavior.
+dog|Dogs can learn to recognize familiar words and also pay attention to tone.
+koala|Koala fingerprints are surprisingly similar to human fingerprints.

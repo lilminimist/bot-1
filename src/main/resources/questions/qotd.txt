@@ -1,0 +1,16 @@
+random|What song would you put in the opening credits of your life?
+random|What is a tiny creative project you would enjoy starting?
+music|Which song feels like a specific place?
+music|What album would you save from a time capsule?
+gaming|What game has the strongest nostalgia for you?
+gaming|Which fictional game world would you visit for one day?
+hobbies|What hobby would you recommend to a beginner?
+hobbies|What skill would you like to learn just for fun?
+books|What book made you want to talk to someone immediately after finishing it?
+books|Which fictional character would make a great roommate?
+photography|What ordinary thing looks beautiful when photographed?
+photography|Do you prefer photos of people, places, objects, or textures?
+food|What snack deserves more respect?
+food|What food would you happily eat for a week?
+creativity|What idea keeps returning to you?
+creativity|Would you rather make something useful or something beautiful?

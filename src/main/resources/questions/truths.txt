@@ -1,0 +1,44 @@
+random|What tiny thing instantly improves your mood?
+random|Which fictional world would you visit for one day?
+funny|What is the funniest misunderstanding you have ever had?
+funny|What completely normal thing are you weirdly dramatic about?
+chaotic|What harmless opinion would you defend like a courtroom lawyer?
+chaotic|If your current mood had a warning label, what would it say?
+awkward|What is a conversation you still replay for no reason?
+awkward|What is the most awkward place you have accidentally waved at someone?
+exposing|What app do you open most often without thinking?
+exposing|What is a song you pretend not to know every word to?
+school|What subject would you redesign from scratch?
+school|What school skill has unexpectedly helped you outside school?
+gaming|What game has the strongest nostalgia for you?
+gaming|Which game character would be the worst roommate?
+music|What song feels like a specific place?
+music|What album would you save from a time capsule?
+creative|What idea have you kept postponing even though it still interests you?
+creative|Which creative skill would you learn instantly if you could?
+friendship|What makes you feel genuinely included in a group?
+friendship|What is a small act of friendship you remember?
+couple|What wholesome activity makes a great low-budget date?
+couple|What fictional duo has the best teamwork?
+deep|What version of yourself are you currently making room for?
+deep|What lesson took you longer to learn than you expected?
+social|What makes a conversation feel easy?
+social|What topic could you talk about for an hour?
+text|What is the best message to receive on a difficult day?
+text|What emoji do you use more than you expected?
+emoji|Which emoji has the most personality?
+emoji|What two emojis describe your week?
+confidence|What is something you do better than you give yourself credit for?
+confidence|What compliment do you find easiest to believe?
+improv|Invent a product you would buy immediately. What does it do?
+improv|Give your current day a dramatic title.
+soft|What is one gentle thing you can do for yourself today?
+soft|Which comfort object deserves a tiny award?
+goth|What would your midnight alter ego name be?
+goth|Which beautiful, slightly spooky place would you explore?
+genz|What is your current main-character side quest?
+genz|Which trend would you bring back for one week?
+sarcastic|What minor inconvenience deserves an unnecessarily serious documentary?
+sarcastic|What task do you complete with the confidence of someone who absolutely did not read the instructions?
+extreme|What is a harmless opinion you could dramatically announce to a room full of friends?
+extreme|What is the boldest wholesome creative idea you would actually try this week?

@@ -1,0 +1,32 @@
+plugins {
+    id "java"
+    id "application"
+}
+
+group = "com.lilminimist"
+version = "1.0.0"
+
+repositories {
+    mavenCentral()
+}
+
+java {
+    toolchain {
+        languageVersion = JavaLanguageVersion.of(21)
+    }
+}
+
+dependencies {
+    implementation("net.dv8tion:JDA:5.2.2") {
+        exclude module: "opus-java"
+    }
+    runtimeOnly("org.slf4j:slf4j-simple:2.0.16")
+}
+
+application {
+    mainClass = "com.lilminimist.LilminimistBot"
+}
+
+tasks.withType(JavaCompile).configureEach {
+    options.encoding = "UTF-8"
+}

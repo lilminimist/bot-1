@@ -1,0 +1,20 @@
+random|Would you rather always have perfect lighting or perfect background music?
+random|Would you rather explore space or the deepest ocean?
+funny|Would you rather have a tiny dragon or a tiny robot companion?
+funny|Would you rather sneeze confetti or hiccup bubbles?
+chaotic|Would you rather have your thoughts narrated or your footsteps beatboxed?
+chaotic|Would you rather fight one very determined goose or ten tiny turtles?
+school|Would you rather have unlimited stationery or unlimited snacks during study sessions?
+school|Would you rather learn every language or master every instrument?
+gaming|Would you rather only play cozy games or only play competitive games for a month?
+gaming|Would you rather have a real-life inventory screen or a real-life save point?
+music|Would you rather only listen to one album for a week or only listen to shuffled songs?
+music|Would you rather write a hit song or design its music video?
+friendship|Would you rather have one very honest friend or ten funny friends?
+friendship|Would you rather host the hangout or choose the playlist?
+creative|Would you rather have infinite ideas or infinite time to finish them?
+creative|Would you rather write the story or illustrate the cover?
+wholesome|Would you rather receive a handwritten note or a surprise meal?
+wholesome|Would you rather spend a quiet afternoon reading or making something?
+deep|Would you rather know your future or understand your past perfectly?
+deep|Would you rather be remembered for your kindness or your creativity?
